@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rizvee/css-art-generator/main/og-preview.png" alt="CSS Art Generator Preview" width="800"/>
-
-  <h1>🎨 CSS Art Generator</h1>
+ <h1>🎨 CSS Art Generator</h1>
   <p><strong>A Real-Time Shape, Gradient, Shadow & Animation CSS Tool</strong></p>
 
   <p>
